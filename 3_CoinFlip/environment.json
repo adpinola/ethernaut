@@ -1,0 +1,5 @@
+{
+  "mnemonic": "__MNEMONIC__",
+  "endpoint": "__RINKEBY_ENDPOINT__",
+  "contractAddress": "__CONTRACT_ADDRESS__"
+}
