@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "try": "node scripts/interact.js",
+    "attack": "node scripts/attack.js",
+    "ganache": "truffle deploy --network ganache"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/truffle-upgrades": "^1.11.0"
+  },
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
